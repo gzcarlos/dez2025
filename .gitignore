@@ -173,3 +173,7 @@ cython_debug/
 
 # credentials
 keys/
+
+# data files
+*.csv
+*.csv.gz
